@@ -1,16 +1,8 @@
-Mean of an array
+Write a program that computes the sum of the first 10 positive integers. Print the resulting sum to the screen like this: 
 
-Write a program that asks the user to enter 5 numbers, and then prints the arithmetic mean of those numbers.
+                            The sum of the first 10 positive integers is: 55
 
-For example:
-            Enter 5 numbers:
-                            number 1: 5
-                            number 2: 3.14
-                            number 3: 1.23
-                            number 4: 100
-                            number 5: 0.01
+Now modify your program to compute the sum of the first 100 positive integers. Print the resulting sum to the screen like this:
+                           
+                            The Sum of the 100 positive integers is: 5050
 
-                            The mean of [5.00, 3.14, 1.23, 100.00, 0.01] is 21.88
-
-Bonus challenge:
-Do not use any built-in functions for calculating the mean. Instead code it up from scratch.
